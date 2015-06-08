@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearDoublyLinkedList", "LinearDoublyLinkedList\LinearDoublyLinkedList.vcxproj", "{56741A7F-55AF-4E0C-848E-18176909A5CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearDoublyLinkedList.Testbed", "LinearDoublyLinkedList.Testbed\LinearDoublyLinkedList.Testbed.vcxproj", "{1FF59FB7-CBDC-40BF-BDBD-B8658E7D255E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56741A7F-55AF-4E0C-848E-18176909A5CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{56741A7F-55AF-4E0C-848E-18176909A5CB}.Debug|x86.Build.0 = Debug|Win32
+		{56741A7F-55AF-4E0C-848E-18176909A5CB}.Release|x86.ActiveCfg = Release|Win32
+		{56741A7F-55AF-4E0C-848E-18176909A5CB}.Release|x86.Build.0 = Release|Win32
+		{1FF59FB7-CBDC-40BF-BDBD-B8658E7D255E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FF59FB7-CBDC-40BF-BDBD-B8658E7D255E}.Debug|x86.Build.0 = Debug|Win32
+		{1FF59FB7-CBDC-40BF-BDBD-B8658E7D255E}.Release|x86.ActiveCfg = Release|Win32
+		{1FF59FB7-CBDC-40BF-BDBD-B8658E7D255E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
